@@ -1,4 +1,4 @@
-# Smarty---Smart-Solutions <br />
+# Smarty-Smart-Solutions <br />
 Smarty is a smart home system to easily control home electrical appliances  <br />
 Features Included : <br />
 1- Manual and app control <br />
